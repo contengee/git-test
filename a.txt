@@ -1,2 +1,2 @@
 aaa
-conflict remote!
+conflict local!
